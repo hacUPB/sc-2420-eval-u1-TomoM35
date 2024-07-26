@@ -36,7 +36,10 @@ Placa Base (Motherboard): La tarjeta principal que conecta y permite la comunica
 6. Arquitectura SIMD (Single Instruction, Multiple Data)
 7. Arquitectura MIPS (Microprocessor without Interlocked Pipeline Stages)
 ### Mapa Conceptual
-![Mapa](Imagen/Mapa Con)
+
+![Mapamental] (Mapa Con.jpg)
+
+
 
 
 
