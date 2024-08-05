@@ -1,6 +1,5 @@
 // División entre de RAM[0] entre RAM[1]
 
-
 @2
 M=0
 
@@ -9,12 +8,10 @@ M=0
 D=M
 @R3
 M=D
-
 @1
 D=M
 @R4
 M=D
-
 // intento del bucle que hara la divicion 
 (LOOP)
 @R4
@@ -29,7 +26,6 @@ M=D
 
 @2
 M=M+1 
-
 @LOOP
 0;JMP // Repetimos 
 (END)
