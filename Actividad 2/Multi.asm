@@ -1,0 +1,17 @@
+@2
+M=0
+(LOOP)
+@1
+D=M
+@END
+@D;JEQ
+@0
+D=M 
+@2
+M=D+M 
+@1
+D=M-1
+@LOOP
+D;JGT
+(END)
+D;JMP
